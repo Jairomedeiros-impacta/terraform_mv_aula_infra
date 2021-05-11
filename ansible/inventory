@@ -1,0 +1,8 @@
+[web]
+10.80.4.10
+
+[web:vars]
+ansible_user-adminuser
+ansible_ssh_pass=aul@infrafs02
+ansible_python_interpreter=/usr/bin/python3
+ansible_ssh_comon_args='-o StricHostKeyChecking=no'

@@ -1,0 +1,9 @@
+---
+  - holts: all
+    tasks:
+      - name: "intalar apache2"
+        apt:
+          update_cache: yes
+          name: "apache"
+          state: Latest
+        becone: yes

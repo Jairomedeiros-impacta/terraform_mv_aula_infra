@@ -1,0 +1,3 @@
+subscriptions/b02c94eb-cb2f-40ca-a8aa-47a1699773da/resourceGroups/aulainfra-fs
+
+esource "azurerm_resource_group" "rg-aulainfra" 
